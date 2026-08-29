@@ -6,8 +6,8 @@ Moondrop 蓝牙耳机助手（LSPosed / Xposed 模块）：耳机连接时自动
 
 > **本仓库是 LSPosed 模块索引 / 发布页，不含源码。** 完整源码、构建方式、Issue 与最新版本请前往源码仓库：
 >
-> - **源码仓库**：[bqj6666/FxxkMoondrop](https://github.com/bqj6666/FxxkMoondrop)
-> - **Releases**：[https://github.com/bqj6666/FxxkMoondrop/releases](https://github.com/bqj6666/FxxkMoondrop/releases)
+> - 🔗 **源码仓库**：[bqj6666/FxxkMoondrop](https://github.com/bqj6666/FxxkMoondrop)
+> - 📦 **Releases**：[https://github.com/bqj6666/FxxkMoondrop/releases](https://github.com/bqj6666/FxxkMoondrop/releases)
 
 ---
 
