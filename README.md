@@ -1,6 +1,6 @@
 # FxxkMoondrop
 
-Moondrop 蓝牙耳机助手（LSPosed / Xposed 模块）：水月雨耳机连接时自动弹出 **Fast Pair 卡片**，并通过 **GAIA BLE 协议**直连耳机，读取左右耳电量、控制降噪。
+Moondrop 蓝牙耳机助手（LSPosed / Xposed 模块）：耳机连接时自动弹出 **Fast Pair 卡片**，并通过 **GAIA BLE 协议**直连耳机，读取左右耳电量、控制降噪。
 
 > 作者：[bqj6666](https://github.com/bqj6666) ｜ 许可证：**GPL-3.0**（见 [LICENSE](LICENSE)）
 
